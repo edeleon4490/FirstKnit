@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Ever De Leon"
 output: 
   html_document:
     number_sections: true
@@ -11,14 +11,14 @@ date: "`r Sys.Date()`"
 
 # A Little Survey
 
-Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct punctuation. 
 
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
   
-
+I went to Palmdale High School and graduated in 2009. Math was a much easier class for me and much more enjoyable. I did best in Math and History classes. 
      
 
 
